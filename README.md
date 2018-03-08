@@ -18,5 +18,5 @@ docker-compose down
 
 
 # Stop and rebuild the notebooks folder on next start
-docker-compose down
+docker-compose down -v
 ```
